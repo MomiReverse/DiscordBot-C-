@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiscordBot", "DiscordBot\DiscordBot.vcxproj", "{5FAF454E-404C-4759-9D07-5194DFFB670A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Debug|x64.ActiveCfg = Debug|x64
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Debug|x64.Build.0 = Debug|x64
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Debug|x86.Build.0 = Debug|Win32
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Release|x64.ActiveCfg = Release|x64
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Release|x64.Build.0 = Release|x64
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Release|x86.ActiveCfg = Release|Win32
+		{5FAF454E-404C-4759-9D07-5194DFFB670A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D507DBF-7C93-43F8-B33B-D045D4BAE589}
+	EndGlobalSection
+EndGlobal
